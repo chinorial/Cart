@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=1280x720
-https://mp3.ovp.ais.th:7111/live/eds/V0101/DNF/V0101.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=qjuZdrQV%2FRhIgWIieZ%2BsNsd%2FlilEtv95sDtj%2B5cKql433JvVnxhm39gcrPBEnlFYo4xVYgg24dE3IyMfaKs7GQ%3D%3D
+https://doodii-cdn.m-fixer.net:8091/stream/ais/mango-mojito/master.m3u8
